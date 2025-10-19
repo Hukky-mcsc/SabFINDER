@@ -1,1 +1,1 @@
-https://github.com/Hukky-mcsc/Kamax-Script/blob/main/script.lua
+https://github.com/Hukky-mcsc/Kamax-Script/main/script.lua
