@@ -54,7 +54,7 @@ CopyBtn.Visible = false
 CopyBtn.Parent = Frame
 
 -- Functionality
-local link = "https://www.roblox.com/share?code=ae7ec9827a05d74fbd62405367ea6b23&type=Server"
+local link = "https://www.roblox.com/share?code=24cd86bb1db5254e93abe12d59c7ef3b&type=Server"
 
 FindBtn.MouseButton1Click:Connect(function()
     FindBtn.Visible = false
